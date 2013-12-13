@@ -1,5 +1,5 @@
 {-# LANGUAGE TemplateHaskell, QuasiQuotes, MultiParamTypeClasses, FunctionalDependencies, FlexibleInstances, GeneralizedNewtypeDeriving, OverloadedStrings, FlexibleContexts #-}
-module DigitalOcean where
+module Network.DigitalOcean where
 import qualified API
 import Control.Applicative
 import Control.Lens
